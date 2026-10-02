@@ -1,6 +1,6 @@
 # East Africa Weather Pipeline
 
-An end-to-end data engineering pipeline that extracts daily weather data for East African cities, transforms and validates it, and loads it into PostgreSQL — fully orchestrated with Apache Airflow.
+An end-to-end data engineering pipeline that extracts daily weather data for East African cities, transforms and validates it, and loads it into PostgreSQL fully orchestrated with Apache Airflow.
 
 ## Problem
 
